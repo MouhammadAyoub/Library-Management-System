@@ -2,7 +2,7 @@
 
 <img src="icon.png" align="right" />
 
-# Library-Management-System ![Issues](https://img.shields.io/github/issues/MouhammadAyoub/Library-Management-System)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/Library-Management-Systemy)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/Library-Management-System)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/Library-Management-System)
+# Library-Management-System</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/Library-Management-System)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/Library-Management-Systemy)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/Library-Management-System)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/Library-Management-System)
 
 > Welcome aboard fellow developer, this is where you will find projects which you are free to contribute to. You can contribute by submitting your own scripts, which you think would be amazing for other people to see.
 
