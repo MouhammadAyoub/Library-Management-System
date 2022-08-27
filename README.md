@@ -57,7 +57,7 @@ Download the project from github to your desktop:
 
   - **Steps you must do to make the app work properly** :
       
-      **1.** Lanch ***MySQL Workbench*** and create database named `librarydb`</br>
+      **1.** Launch ***MySQL Workbench*** and create a database named `librarydb`</br>
       
       **2.** Run the query in the file `librarydb.sql` inside the database to create all the tabels</br>
       
