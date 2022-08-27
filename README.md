@@ -59,7 +59,7 @@ Download the project from github to your desktop:
       
       **1.** Launch ***MySQL Workbench*** and create a database named `librarydb`</br>
       
-      **2.** Run the query in the file `librarydb.sql` inside the database to create all the tabels</br>
+      **2.** Run the content of `library.sql` file in the database you just created in order to create all the database tables</br>
       
       **3.** Change the ***url***, ***user*** and ***password*** of the connection in the `Database.java` file</br>
       
