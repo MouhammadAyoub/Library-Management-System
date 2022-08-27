@@ -61,7 +61,7 @@ Download the project from github to your desktop:
       
       **2.** Run the content of `library.sql` file in the database you just created in order to create all the database tables</br>
       
-      **3.** Change the ***url***, ***user*** and ***password*** of the connection in the `Database.java` file</br>
+      **3.** Change the ***url***, ***user*** and ***password*** of database connection in the `Database.java` file</br>
       
       <img src="Database-Attributes.png" width="650px" /></br>
 
