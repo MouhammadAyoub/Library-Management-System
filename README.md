@@ -49,7 +49,7 @@ Download the project from github to your desktop:
       
       **1.** Click on the green `Code` button, then download the repository as a ZIP file</br>
       
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Download-Zip.png" width="350px;" /></br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Download-Zip.png" width="350px" /></br>
       
       **2.** Find the downloaded .zip file on your computer, likely in your Downloads folder</br>
       
@@ -57,7 +57,13 @@ Download the project from github to your desktop:
 
   - **Steps you must do to make the app work properly** :
       
-      **1.** Change the server name of the `ConnectionStrings` attribute in the `appsetting.json` file</br>
+      **1.** Lanch ***MySQL Workbench*** and create database named `librarydb`</br>
+      
+      **2.** Run the query in the file `librarydb.sql` inside the database to create all the tabels</br>
+      
+      **3.** Change the ***url***, ***user*** and ***password*** of the connection in the `Database.java` file</br>
+      
+      <img src="Database-Attributes.png" width="650px" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
