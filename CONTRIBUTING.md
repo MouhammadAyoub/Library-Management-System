@@ -1,5 +1,5 @@
-# Contributing to CVs-reposotiry
-Thanks for your interest in ASP.Net. Our goal is to bring fast, reliable, and trouble-free open-source projects to all communities. We love your input! We want to make every contribution to this project as transparent and effortless as possible. Please note that we have a code of conduct that we need to follow moving forward in all your interactions with the project.
+# Contributing to Library-Management-System
+Thanks for your interest in JavaFx. Our goal is to bring fast, reliable, and trouble-free open-source projects to all communities. We love your input! We want to make every contribution to this project as transparent and effortless as possible. Please note that we have a code of conduct that we need to follow moving forward in all your interactions with the project.
 
 - Reporting a bug
 - Discussing the current state of the code
@@ -25,8 +25,8 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 ## Any contributions you make will be under the MIT Software License
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/MouhammadAyoub/CVs-repository/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/MouhammadAyoub/CVs-repository/issues/new) it's that easy!
+## Report bugs using Github's [issues](https://github.com/MouhammadAyoub/Library-Management-System/issues)
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/MouhammadAyoub/Library-Management-System/issues/new) it's that easy!
 
 ## Write bug reports with detail, background, and sample code
 [This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report I wrote, and I think it's not a bad model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), an app developer whom I greatly respect.
