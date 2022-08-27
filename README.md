@@ -8,7 +8,7 @@
 
 ### Description
 
-Desktop application built with ***JavaFX*** and ***MSSQL*** designed to manage all the functions of a library. It helps the librarian to maintain the database of new books and borrowed books along with their due dates. It tracks the records of the number of books in the library, how many books are issued, how many books have been returned or renewed.
+Desktop application built with ***JavaFX*** and ***MySQL*** designed to manage all the functions of a library. It helps the librarian to maintain the database of new books and borrowed books along with their due dates. It tracks the records of the number of books in the library, how many books are issued, how many books have been returned or renewed.
 
 ### Installation
 
