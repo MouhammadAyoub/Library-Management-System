@@ -89,7 +89,17 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Check-Pass.png" /></br>
 
-- ***Welcome Page :*** &nbsp;This is the `First Page` that appears when you enter the website 👇
+- ***Reserve Book Page :*** &nbsp;Where you reserve books
+
+<img src="assets/images/Reserve-Book.png" /></br>
+
+***Note :*** &nbsp;If doesn't exist
+
+<img src="assets/images/Add-Client.png" /></br>
+
+***Note :*** &nbsp;after that and if exist
+
+<img src="assets/images/Choose-Book.png" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
