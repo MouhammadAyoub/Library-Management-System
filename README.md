@@ -93,8 +93,8 @@ The contribution guidelines are as per the guide [HERE](https://github.com/Mouha
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/MouhammadAyoub/Library-Management-System/blob/main/LICENSE) for more information.  
+Copyright © 2022, Mohammad Ayoub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
