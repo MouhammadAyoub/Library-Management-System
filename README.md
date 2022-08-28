@@ -89,11 +89,11 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Check-Pass.png" /></br>
 
-- ***Reserve Book Page :*** &nbsp;The book reservation scenario is applied when there is currently no copy of the book that the customer wants in the library. Therefore, he reserves the first copy that is returned to the library. To start the booking process, we must first check whether we have an account for this customer or not, and we check this by entering the phone number.
+- ***Reserve Book Page :*** &nbsp;The book reservation scenario is applied when there is currently no copy of the book that the customer wants in the library. Therefore, he reserves the first copy that is returned to the library. To start the booking process, we must first `Check Whether We Have An Account For This Customer` or not, and we check this by entering the phone number
 
 <img src="assets/images/Reserve-Book.png" /></br>
 
-***Note :*** &nbsp;If doesn't exist
+***Note :*** &nbsp;If the `Phone Number Does Not Exist` in the database, you will be automatically redirected to the add customer page
 
 <img src="assets/images/Add-Clients.png" /></br>
 
