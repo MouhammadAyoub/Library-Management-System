@@ -109,11 +109,11 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Categories-Page.png" /></br>
 
-- ***Add Member Page :*** &nbsp;You must fill in all fields in order to successfully add a new member (with the option to create as admin)
+- ***Add Member Page :*** &nbsp;You must `Fill In All Fields` in order to successfully add a new member (with the option to create as admin)
 
 <img src="assets/images/Add-Member.png" /></br>
 
-- ***Remove Member Page :*** &nbsp;As an admin, you can remove any member whenever you want, and the information related to that member will be gone
+- ***Remove Member Page :*** &nbsp;As an admin, you can `Remove Any Member` whenever you want, and the information related to that member will be gone
 
 <img src="assets/images/Delete-Member.png" /></br>
 
