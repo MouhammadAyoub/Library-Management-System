@@ -101,9 +101,23 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Choose-Book.png" /></br>
 
-#### ***Note :*** &nbsp;The app has more features for the member account, like borrowing a book and returning it or checking the reservation list, and for the admin account, like adding, deleting and updating books, but they are easy to use and that's why I won't show them
+- ***Add Category Page :*** &nbsp;add category
 
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+<img src="assets/images/Add-Category.png" /></br>
+
+- ***Remove Category Page :*** &nbsp;remove category
+
+<img src="assets/images/Categories-Page.png" /></br>
+
+- ***Add Member Page :*** &nbsp;add member
+
+<img src="assets/images/Add-Member.png" /></br>
+
+- ***Remove Member Page :*** &nbsp;remove member
+
+<img src="assets/images/Delete-Member.png" /></br>
+
+### ***Note :*** &nbsp;The app has more features for the member account, like borrowing a book and returning it or checking the reservation list, and for the admin account, like adding, deleting and updating books, but they are easy to use and that's why I won't show them
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
