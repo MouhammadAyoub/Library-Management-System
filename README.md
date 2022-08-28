@@ -89,6 +89,8 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Check-Pass.png" /></br>
 
+- ***Welcome Page :*** &nbsp;This is the `First Page` that appears when you enter the website 👇
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contribution Guidelines
