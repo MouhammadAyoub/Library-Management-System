@@ -73,7 +73,7 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Welcome-Page.png" /></br>
 
-***Note :*** &nbsp;If you choose to login as a admin, you will be redirected to the `Admin Login Page`
+***Note :*** &nbsp;If you choose to login as an admin, you will be redirected to the `Admin Login Page`
 
 <img src="assets/images/Welcome-Admin.png" /></br>
 
@@ -95,7 +95,7 @@ Download the project from github to your desktop:
 
 ***Note :*** &nbsp;If doesn't exist
 
-<img src="assets/images/Add-Client.png" /></br>
+<img src="assets/images/Add-Clients.png" /></br>
 
 ***Note :*** &nbsp;after that and if exist
 
