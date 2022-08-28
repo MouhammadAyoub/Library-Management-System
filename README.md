@@ -101,19 +101,19 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Choose-Book.png" /></br>
 
-- ***Add Category Page :*** &nbsp;add category
+- ***Add Category Page :*** &nbsp;You can create a category with the `Name You Want`, provided it is not already in the database, otherwise you will receive an error message
 
 <img src="assets/images/Add-Category.png" /></br>
 
-- ***Remove Category Page :*** &nbsp;remove category
+- ***Remove Category Page :*** &nbsp;When a category is removed, `All Related Books` will also be removed and all borrowed and reserved information will disappear
 
 <img src="assets/images/Categories-Page.png" /></br>
 
-- ***Add Member Page :*** &nbsp;add member
+- ***Add Member Page :*** &nbsp;You must fill in all fields in order to successfully add a new member (with the option to create as admin)
 
 <img src="assets/images/Add-Member.png" /></br>
 
-- ***Remove Member Page :*** &nbsp;remove member
+- ***Remove Member Page :*** &nbsp;As an admin, you can remove any member whenever you want, and the information related to that member will be gone
 
 <img src="assets/images/Delete-Member.png" /></br>
 
