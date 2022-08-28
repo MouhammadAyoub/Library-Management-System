@@ -101,7 +101,9 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Choose-Book.png" /></br>
 
-***Note :*** &nbsp;The app has more features for the member account, like borrowing a book and returning it or checking the reservation list, and for the admin account, like adding, deleting and updating books, but they are easy to use and that's why I won't show them.
+#### ***Note :*** &nbsp;The app has more features for the member account, like borrowing a book and returning it or checking the reservation list, and for the admin account, like adding, deleting and updating books, but they are easy to use and that's why I won't show them
+
+![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
