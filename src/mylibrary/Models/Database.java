@@ -1,4 +1,3 @@
-
 package mylibrary.Models;
 
 import java.sql.Connection;
@@ -10,44 +9,40 @@ import java.sql.Statement;
 public class Database {
 
     ResultSet resultat = null;
-    Statement instruction ;
+    Statement instruction;
     static private Database database;
-    
-    private Database(){
-    
-	try{
-            String url="jdbc:mysql://127.0.0.1:3306/librarydb";
-            String user="root";
- 	    Connection conn = DriverManager.getConnection(url, user,"Ayoub123?");
+
+    private Database() {
+
+        try {
+            String url = "jdbc:mysql://127.0.0.1:3306/librarydb";
+            String user = "root";
+            Connection conn = DriverManager.getConnection(url, user, "Ayoub123?");
             instruction = conn.createStatement();
             System.out.println("Connected");
+        } catch (SQLException ex) {
+            System.out.println(ex);
         }
-        
-  	catch (SQLException ex) {
-            System.out.println(ex );
-	}
     }
-    
-    public ResultSet SelectFun(String Query) throws SQLException{
-    
-        resultat = instruction.executeQuery(Query);	
+
+    public ResultSet SelectFun(String Query) throws SQLException {
+
+        resultat = instruction.executeQuery(Query);
         return resultat;
     }
 
-    public void InsertFun(String Query) throws SQLException{
-    
+    public void InsertFun(String Query) throws SQLException {
+
         instruction.executeUpdate(Query);
     }
 
-    public static Database getDatabaseConnection(){
-    
-        if(database == null){
-            database= new Database();
+    public static Database getDatabaseConnection() {
+
+        if (database == null) {
+            database = new Database();
         }
-    
+
         return database;
     }
-    
+
 }
-
-

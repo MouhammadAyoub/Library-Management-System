@@ -4,7 +4,7 @@
 }
 
 .menu-item:focused {
-     -fx-background-color: #A25F35;
+    -fx-background-color: #A25F35;
 }
 
 .menu-item:focused .label {
@@ -19,7 +19,7 @@
 .split-menu-button .label {
     -fx-background-color: #A25F35;
 }
-    
+
 .context-menu {
     -fx-skin: "com.sun.javafx.scene.control.skin.ContextMenuSkin";
     -fx-background-color:  #A25F35;
